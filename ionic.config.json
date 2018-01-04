@@ -1,0 +1,8 @@
+{
+  "name": "tribe",
+  "app_id": "dc03cc1a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
